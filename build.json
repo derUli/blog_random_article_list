@@ -1,0 +1,8 @@
+{
+   "id" : "blog_random_article_list",
+   "version" : "1.0",
+   "description" : "Show Random Article List",
+   "categories" : ["blog", "articles", "list"],
+   "compatible_from" : "2017.1",
+   "dependencies" : ["blog"]
+}
